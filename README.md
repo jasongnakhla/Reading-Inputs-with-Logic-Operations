@@ -1,1 +1,1 @@
-# Reading-nputs-with-Logic-Operations
+# Reading-Inputs-with-Logic-Operations
